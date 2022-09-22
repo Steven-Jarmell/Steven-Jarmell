@@ -11,11 +11,12 @@
       <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Twitter Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Steven-Jarmell&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hi there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
-
-
-
-### Hi there 👋
 
 <!--
 **Steven-Jarmell/Steven-Jarmell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
