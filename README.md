@@ -15,10 +15,9 @@
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
+  
 </div>
-
---- 
 
 ### 🏋️‍♂️About Me :
 
@@ -49,3 +48,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Steven-Jarmell&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Jarmell&layout=compact&count_private=true&langs_count=6&hide=jupyter%20notebook&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
