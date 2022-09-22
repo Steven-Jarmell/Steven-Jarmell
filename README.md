@@ -18,17 +18,14 @@
 </h1>
 </div>
 
-<!--
-**Steven-Jarmell/Steven-Jarmell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+### 🏋️‍♂️About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 I live in Pittsburgh, PA
+- 🏙️ I'm an incoming Software Development Engineer Intern at Amazon in Boston for Summer '23
+- 🏫 I'm currently earning my BS in Computer Science at the University of Pittsburgh
+- 🔭 I’m currently working on a Wordle clone
+- 🌱 I’m currently learning Full Stack Development
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've never been on an airplane
