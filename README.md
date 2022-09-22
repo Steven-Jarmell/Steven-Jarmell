@@ -1,3 +1,20 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" width="250"/>
+  <div id="badges">
+    <a href="www.linkedin.com/in/jarmell">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://steven-jarmell.github.io/">
+      <img src="https://img.shields.io/badge/Website-brightgreen?style=for-the-badge" alt="Youtube Badge"/>
+    </a>
+    <a href="[your-twitter-URL](https://drive.google.com/file/d/1StdOkhCf-mi5aKpnWcOUJlymA_4QqKQN/view)">
+      <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+
+
+
 ### Hi there 👋
 
 <!--
