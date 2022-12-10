@@ -24,7 +24,6 @@
 - 🌎 I live in Pittsburgh, PA
 - 🏙️ I'm an incoming Software Development Engineer Intern at Amazon at Boston for Summer '23
 - 🏫 I'm currently earning my BS in Computer Science at the University of Pittsburgh
-- 🔭 I’m currently working on a Wordle clone
 - 🌱 I’m currently learning Full Stack Development
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've never been on an airplane
