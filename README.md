@@ -25,7 +25,6 @@
 - 🏫 I'm currently earning my BS in Computer Science at the University of Pittsburgh
 - 🌱 I’m currently learning Full Stack Development
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've never been on an airplane
 
 ---
 
