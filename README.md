@@ -7,7 +7,7 @@
     <a href="https://steven-jarmell.github.io/">
       <img src="https://img.shields.io/badge/Website-brightgreen?style=for-the-badge" alt="Youtube Badge"/>
     </a>
-    <a href="https://github.com/Steven-Jarmell/Resume/blob/main/Steven_Jarmell_Resume_August_2023.pdf">
+    <a href="https://github.com/Steven-Jarmell/Resume/blob/main/Steven_Jarmell_Resume.pdf">
       <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Resume Badge"/>
     </a>
   </div>
