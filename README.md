@@ -21,9 +21,9 @@
 ### 🏋️‍♂️About Me :
 
 - 🌎 I live in Pittsburgh, PA
-- 🏙️ I'm an incoming Software Development Engineer Intern at Amazon at Boston for Summer '23
+- 🏙️ I'm an incoming Software Development Engineer at Amazon
 - 🏫 I'm currently earning my BS in Computer Science at the University of Pittsburgh
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning
 - 😄 Pronouns: he/him
 
 ---
