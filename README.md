@@ -18,16 +18,6 @@
   
 </div>
 
-### 🏋️‍♂️About Me :
-
-- 🌎 I live in Pittsburgh, PA
-- 🏙️ I'm an incoming Software Development Engineer at Amazon in Sunnyvale, CA
-- 🏫 I graduated with a BS in Computer Science from the University of Pittsburgh
-- 🌱 I’m currently learning a little bit of this and a little bit of that
-- 😄 Pronouns: he/him
-
----
-
 ### :hammer_and_wrench: Languages and Tools: 
 
 <div>
